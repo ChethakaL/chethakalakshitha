@@ -1,6 +1,19 @@
 # 💫 About Me:
-🔭 I'm a Software Engineer who has mastered in MERN Stack. I have created lots of React websites as well as React native Mobile applications<br>👯 I'm developing a Digital Media Marketing Tool using MERN stack currently.<br>🌱 I'm currently learning spline and how to use it with react to create 3D and interactive websites<br>💬 Ask me about<br>⚡ I'm 21 years old with 5 years of experience in creating websites and mobile application, I have a small startup called Infigo Developers
+# Hi there! 👋
 
+I'm Chethaka, a passionate Software Engineer specializing in the MERN Stack. Welcome to my GitHub!
+
+## About Me
+
+🔭 Mastering the MERN Stack, I've crafted numerous React websites and React Native mobile applications.
+
+👯 Currently, I'm in the process of developing a cutting-edge Digital Media Marketing Tool, harnessing the power of the MERN stack.
+
+🌱 Exploring the realms of Spline and its integration with React to sculpt immersive 3D and interactive websites.
+
+💬 Feel free to pick my brain about anything related to web and mobile development!
+
+⚡ At just 21 years young, I boast 5 years of hands-on experience in crafting captivating websites and mobile applications. Proudly steering a startup named Infigo Developers.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Chethaka Lakshitha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Chethaka_Lakshitha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Chethaka Lakshitha) 
